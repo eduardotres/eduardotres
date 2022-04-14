@@ -1,7 +1,7 @@
 #### Dev.Souza Trés Eduardo Antônio
 ## About me
 ###### 👨 Age: 22 years old
-###### 💻 Back-End Developer - PHP - Laravel - Junior
+###### 💻 Back-End Developer - PHP - Laravel - MidLevel
 ###### 🎧 - Eletronic & Pop/Rock
 ###### 🇧🇷 Nationality: Brazilian
 
