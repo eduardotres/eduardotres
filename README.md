@@ -1,11 +1,9 @@
-## Hi 👋 My name is Eduardo Antônio Trés de Souza
+## Hi 👋, I'm Eduardo Antônio Trés de Souza
 ### Back-end Developer
 
 ### About 
 
-* 🌍  I'm based in BRAZIL
-* 🖥️  See my website at https://eduardotres.com
-* 🧠  My stacks | PHP - Laravel
+* 👨‍💻  My stacks | PHP - Laravel
 
 ## Contact-Me
 
