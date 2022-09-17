@@ -4,7 +4,7 @@
 ### About 
 
 * 👨‍💻 My stacks | PHP - Laravel
-* 🖥️ My website <a href="https://eduardotres.com" target="_blank"><img src="https://imgur.com/U4GWyXg.png" width="16" height="16" style="max-width: 100%;"></a>
+* 🖥️ My website <a href="https://eduardotres.com" target="_blank"><img src="https://imgur.com/U4GWyXg.png" width="24" height="24" style="max-width: 100%;"></a>
 
 ## Contact-Me
 
